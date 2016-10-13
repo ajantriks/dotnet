@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Visualisations on Sumandro</title>
-    <link>https://ajantriks.net/categories/visualisations/</link>
+    <link>https://ajantriks.github.io/dotnet/categories/visualisations/</link>
     <description>Recent content in Visualisations on Sumandro</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 22 Apr 2013 20:09:56 +0530</lastBuildDate>
-    <atom:link href="https://ajantriks.net/categories/visualisations/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ajantriks.github.io/dotnet/categories/visualisations/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Indic Wikipedia Visualisation Project #2: Visualising Page Views and Project Pages</title>
-      <link>https://ajantriks.net/indic-wikipedia-visualisation-project-2/</link>
+      <link>https://ajantriks.github.io/dotnet/indic-wikipedia-visualisation-project-2/</link>
       <pubDate>Mon, 22 Apr 2013 20:09:56 +0530</pubDate>
       
-      <guid>https://ajantriks.net/indic-wikipedia-visualisation-project-2/</guid>
+      <guid>https://ajantriks.github.io/dotnet/indic-wikipedia-visualisation-project-2/</guid>
       <description>
 
 &lt;h4 id=&#34;co-authored-with-sajjad-anwar-http-geohacker-in-published-by-the-centre-for-internet-and-society-http-cis-india-org-openness-blog-old-indic-wikipedia-visualisation-project-visualising-page-views-and-project-pages:e0fe0008838454773365ee5a4e37cd7f&#34;&gt;Co-authored with &lt;a href=&#34;http://geohacker.in/&#34;&gt;Sajjad Anwar&lt;/a&gt;. Published by &lt;a href=&#34;http://cis-india.org/openness/blog-old/indic-wikipedia-visualisation-project-visualising-page-views-and-project-pages&#34;&gt;the Centre for Internet and Society&lt;/a&gt;.&lt;/h4&gt;
@@ -57,10 +57,10 @@
     
     <item>
       <title>Indic Wikipedia Visualisation Project #1: Visualising Basic Parameters</title>
-      <link>https://ajantriks.net/indic-wikipedia-visualisation-project-1/</link>
+      <link>https://ajantriks.github.io/dotnet/indic-wikipedia-visualisation-project-1/</link>
       <pubDate>Tue, 26 Mar 2013 20:09:56 +0530</pubDate>
       
-      <guid>https://ajantriks.net/indic-wikipedia-visualisation-project-1/</guid>
+      <guid>https://ajantriks.github.io/dotnet/indic-wikipedia-visualisation-project-1/</guid>
       <description>
 
 &lt;h4 id=&#34;co-authored-with-sajjad-anwar-http-geohacker-in-published-by-the-centre-for-internet-and-society-http-cis-india-org-openness-blog-old-indic-wikipedia-visualisation-project-visualising-basic-parameters:9e0b2ded6070cb6c132959f99e0bf731&#34;&gt;Co-authored with &lt;a href=&#34;http://geohacker.in/&#34;&gt;Sajjad Anwar&lt;/a&gt;. Published by &lt;a href=&#34;http://cis-india.org/openness/blog-old/indic-wikipedia-visualisation-project-visualising-basic-parameters&#34;&gt;the Centre for Internet and Society&lt;/a&gt;.&lt;/h4&gt;
