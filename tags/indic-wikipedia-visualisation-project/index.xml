@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Indic Wikipedia Visualisation Project on Sumandro</title>
+    <link>https://ajantriks.net/tags/indic-wikipedia-visualisation-project/</link>
+    <description>Recent content in Indic Wikipedia Visualisation Project on Sumandro</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 22 Apr 2013 20:09:56 +0530</lastBuildDate>
+    <atom:link href="https://ajantriks.net/tags/indic-wikipedia-visualisation-project/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Indic Wikipedia Visualisation Project #2: Visualising Page Views and Project Pages</title>
+      <link>https://ajantriks.net/indic-wikipedia-visualisation-project-2/</link>
+      <pubDate>Mon, 22 Apr 2013 20:09:56 +0530</pubDate>
+      
+      <guid>https://ajantriks.net/indic-wikipedia-visualisation-project-2/</guid>
+      <description>
+
+&lt;h4 id=&#34;co-authored-with-sajjad-anwar-http-geohacker-in-published-by-the-centre-for-internet-and-society-http-cis-india-org-openness-blog-old-indic-wikipedia-visualisation-project-visualising-page-views-and-project-pages:e0fe0008838454773365ee5a4e37cd7f&#34;&gt;Co-authored with &lt;a href=&#34;http://geohacker.in/&#34;&gt;Sajjad Anwar&lt;/a&gt;. Published by &lt;a href=&#34;http://cis-india.org/openness/blog-old/indic-wikipedia-visualisation-project-visualising-page-views-and-project-pages&#34;&gt;the Centre for Internet and Society&lt;/a&gt;.&lt;/h4&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://geohacker.in/&#34;&gt;Sajjad Anwar&lt;/a&gt; and I undertook a series of visualisations of readership and editing data of the Indic Wikipedia projects in early 2013. The work was supported by &lt;a href=&#34;http://cis-india.org/&#34;&gt;the Centre for Internet and Society&lt;/a&gt;, and the data was provided by the &lt;a href=&#34;http://www.wikimedia.org/&#34;&gt;Wikimedia Foundation&lt;/a&gt;. This post looks at the basic parameters associated with the Indic Wikipedia projects, and shares visualisations divided in three focus areas.&lt;/p&gt;
+
+&lt;h2 id=&#34;introduction:e0fe0008838454773365ee5a4e37cd7f&#34;&gt;Introduction&lt;/h2&gt;
+
+&lt;p&gt;Unlike the basic parameters that &lt;a href=&#34;../indic-wikipedia-visualisation-project-1/&#34;&gt;we discussed last month&lt;/a&gt;, we received the Page Views data only from January 2008 onwards. The project-specific pages allow the user to see all the different variables related to a Indic language Wikipedia project in one page, thus giving a general overview of the activities in that project and their inter-relationships. Instead of comparing multiple projectsn, as in the calendar charts and motion chart discussed in the last post, the project-specific pages focus on understanding one Wikipedia project in detail.&lt;/p&gt;
+
+&lt;h2 id=&#34;page-views:e0fe0008838454773365ee5a4e37cd7f&#34;&gt;Page Views&lt;/h2&gt;
+
+&lt;p&gt;The data came in a structure that is useful for human-readability of the data but not so much for visualisation. The first column contained the date value (01/01/2008, 01/02/2008, and so on), followed by a column for each Indic Wikipedia project (Assamese, Bhojpuri, and so on) and one for the total Page Views across projects for the month concerned. The original data file can be &lt;a href=&#34;https://github.com/geohacker/indicwiki/blob/master/data/page_views.csv&#34;&gt;accessed here&lt;/a&gt;. We re-formatted this data to the following column structure: the first column gives the date value, the second column gives the language of the Wikipedia project, and the third column gives the Page Views value. Further, the Page Views file contained data for 2013 that are not available for any other variables (like Total Articles, Total Editors etc.). So we decided to remove the 2013 values from the Page Views file for easier comparison with other variables. The data file that we finally used for the visualisation can be &lt;a href=&#34;https://github.com/geohacker/indicwiki/blob/master/data/page_views_2.csv&#34;&gt;accessed here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;calendar-heatmap-chart:e0fe0008838454773365ee5a4e37cd7f&#34;&gt;Calendar (Heatmap) Chart&lt;/h2&gt;
+
+&lt;p&gt;The first chart that we created was the calendar (heatmap) chart discussed in detail in the &lt;a href=&#34;../indic-wikipedia-visualisation-project-1/&#34;&gt;last post&lt;/a&gt;. For the Page View variable we only had data form 2008. We plotted it as calendar-like heatmap to allow quick cross-project comparisons of trends in readership. The chart can be &lt;a href=&#34;http://geohacker.github.io/indicwiki/page-views&#34;&gt;accessed here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../img/indic-wikipedia-page-views-per-month.png&#34; alt=&#34;code&#34; title=&#34;Indic Wikipedia Visualisation Project - Page Views per Month&#34; /&gt;&lt;/p&gt;
+
+&lt;h6 id=&#34;source-http-geohacker-in-indicwiki-page-views:e0fe0008838454773365ee5a4e37cd7f&#34;&gt;Source: &lt;a href=&#34;http://geohacker.in/indicwiki/page-views&#34;&gt;http://geohacker.in/indicwiki/page-views&lt;/a&gt;.&lt;/h6&gt;
+
+&lt;h2 id=&#34;project-pages:e0fe0008838454773365ee5a4e37cd7f&#34;&gt;Project Pages&lt;/h2&gt;
+
+&lt;p&gt;So far, we have been visualising the data from an overall perspective, constantly asking the question: “How does project A compare to project B?”. The &lt;a href=&#34;http://geohacker.github.io/indicwiki/projects&#34;&gt;Project pages&lt;/a&gt; shed light from a different angle: “How did project A get to this point?”. Each of the projects are visualised in isolation around the basic parameters to understand how they have changed/evolved over the years. We wanted to keep this as simple as possible and decided to use straight forward line charts. This also ensures that the patterns are clearly evident. On the right corner of the navigation bar is the project selector. You can search or pick a project and the page will load the charts specific to that project. Each project has a different page, this makes it easier for you to share the project that you are interested in. The chart employs filtering and dynamic scales. Dynamic scales are important because not all the projects have the same rate of growth.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../img/indic-wikipedia-project-pages.png&#34; alt=&#34;code&#34; title=&#34;Indic Wikipedia Visualisation Project - Project Pages&#34; /&gt;&lt;/p&gt;
+
+&lt;h6 id=&#34;source-http-geohacker-in-indicwiki-projects:e0fe0008838454773365ee5a4e37cd7f&#34;&gt;Source: &lt;a href=&#34;http://geohacker.in/indicwiki/projects&#34;&gt;http://geohacker.in/indicwiki/projects&lt;/a&gt;.&lt;/h6&gt;
+
+&lt;h2 id=&#34;readership-dashboard:e0fe0008838454773365ee5a4e37cd7f&#34;&gt;Readership Dashboard&lt;/h2&gt;
+
+&lt;p&gt;We were not satisfied with creating only the calendar heatmap chart for Page Views. Being a very important variable for anybody trying to understand activities on Indic Wikipedia projects, we wanted to create a more detailed visualisation for the variable. While the project-specific pages do allow for comparing Page Views for a certain Indic Wikipedia with its other variables (such as Total Articles), we wanted to make that comparison even easier. Hence we decided to make a chart combining a line graph showing the movement of Page View for a project across the years and bar graphs showing a separate variable for the same project. Thus we created the &lt;a href=&#34;http://geohacker.github.io/indicwiki/readers&#34;&gt;Readership Dashboard&lt;/a&gt;. The dashboard has two controls: project selector and the parameter selector buttons. Selecting a project from the dropdown will update the line chart showing the movement of page views. Hover over the line graph points to see the date of observation and the corresponding value. The bars behind the line represent the selected parameters. Click on the parameter buttons to load different parameters as the background bar graph. Hover over the bars to see the date and the value. The bar graph is carefully aligned to the line chart such that the visualisation reflects the relation in movement of both. However, please note that the vertical scale of the line graph and the bar graphs are not the same.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../img/indic-wikipedia-readership.png&#34; alt=&#34;code&#34; title=&#34;Indic Wikipedia Visualisation Project - Readership Dashboard&#34; /&gt;&lt;/p&gt;
+
+&lt;h6 id=&#34;source-http-geohacker-in-indicwiki-readership:e0fe0008838454773365ee5a4e37cd7f&#34;&gt;Source: &lt;a href=&#34;http://geohacker.in/indicwiki/readership&#34;&gt;http://geohacker.in/indicwiki/readership&lt;/a&gt;.&lt;/h6&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Indic Wikipedia Visualisation Project #1: Visualising Basic Parameters</title>
+      <link>https://ajantriks.net/indic-wikipedia-visualisation-project-1/</link>
+      <pubDate>Tue, 26 Mar 2013 20:09:56 +0530</pubDate>
+      
+      <guid>https://ajantriks.net/indic-wikipedia-visualisation-project-1/</guid>
+      <description>
+
+&lt;h4 id=&#34;co-authored-with-sajjad-anwar-http-geohacker-in-published-by-the-centre-for-internet-and-society-http-cis-india-org-openness-blog-old-indic-wikipedia-visualisation-project-visualising-basic-parameters:9e0b2ded6070cb6c132959f99e0bf731&#34;&gt;Co-authored with &lt;a href=&#34;http://geohacker.in/&#34;&gt;Sajjad Anwar&lt;/a&gt;. Published by &lt;a href=&#34;http://cis-india.org/openness/blog-old/indic-wikipedia-visualisation-project-visualising-basic-parameters&#34;&gt;the Centre for Internet and Society&lt;/a&gt;.&lt;/h4&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://geohacker.in/&#34;&gt;Sajjad Anwar&lt;/a&gt; and I undertook a series of visualisations of readership and editing data of the Indic Wikipedia projects in early 2013. The work was supported by &lt;a href=&#34;http://cis-india.org/&#34;&gt;the Centre for Internet and Society&lt;/a&gt;, and the data was provided by the &lt;a href=&#34;http://www.wikimedia.org/&#34;&gt;Wikimedia Foundation&lt;/a&gt;. This post looks at the basic parameters associated with the Indic Wikipedia projects, and shares visualisations divided in three focus areas. .&lt;/p&gt;
+
+&lt;h2 id=&#34;introduction:9e0b2ded6070cb6c132959f99e0bf731&#34;&gt;Introduction&lt;/h2&gt;
+
+&lt;p&gt;Understanding how the Indic or the Indian language Wikipedia projects are growing is something that we have been interested in for quite sometime. We were delighted to come across this opportunity from the Centre for Internet and Society (CIS) and Wikimedia Foundation. We divided our analyses into three focus areas: (1) basic parameters, (2) geographic patterns of edits, and (3) exploring the topics that receives the greatest number of edits. The existing infographics and data visualisations that we found about Indic Wikipedias mostly engaged on the first area, and also emphasised on yearly aggregates. We thought a more granular, that is monthly, understanding and a focus on the geographic and thematic spread of the edits would be very helpful to further appreciate the activities.&lt;/p&gt;
+
+&lt;p&gt;We began by collecting data about the following basic parameters:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Number of Editors&lt;/li&gt;
+&lt;li&gt;Number of Articles&lt;/li&gt;
+&lt;li&gt;Page Views&lt;/li&gt;
+&lt;li&gt;Number of Active Editors&lt;/li&gt;
+&lt;li&gt;Number of New Articles&lt;/li&gt;
+&lt;li&gt;Number of New Editors&lt;/li&gt;
+&lt;li&gt;Edit Size&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&#34;acquiring-the-data:9e0b2ded6070cb6c132959f99e0bf731&#34;&gt;Acquiring the Data&lt;/h2&gt;
+
+&lt;p&gt;We explored the &lt;a href=&#34;http://www.mediawiki.org/wiki/API&#34;&gt;MediaWiki API&lt;/a&gt;, &lt;a href=&#34;http://toolserver.org/&#34;&gt;ToolServer&lt;/a&gt;, and the &lt;a href=&#34;http://stats.wikimedia.org/&#34;&gt;Wikimedia Statistics Portal&lt;/a&gt;. These are several ways of obtaining data about Wikipedia in general. Depending on the use case, such as the quantity of data required or the need for customised/selective data scraping, any one or more of these methods of data gathering can be chosen. The API had limitations in terms of how much data you can access, and it is meant to be used to access actual Wikipedia entries. We, however, were looking for metadata about the entries/articles (such as when it was first created, when and how many times it was edited, etc.) and not the actual entries/articles, that is the actual contents of Indic Wikipedias. ToolServer is an excellent way of running custom scripts. Although, this takes for granted that user (of ToolServer) has substantial command over the back-end infrastructures and processes that Wikipedia runs on. We wrote a few scrapers to extract metadata about Indic Wikipedia projects from the ToolServer but not exactly being experts in the Wikipedia back-end systems, we found scraping from ToolServer rather time-and effort-intensive. The statistics portal is a well organised and an accessible place for collecting data for analyses. However, we came across several missing parameters and projects, that is the statistic portal did not have all the parameters and Wikipedia projects we were interested in. In our search for Indic Wikipedia datasets so far, we realised that the Wikimedia Analytics Team (WAT) puts a lot of effort in writing scripts and collecting various data at different levels. Wikimedia developer Yuvi Panda and the Access to Knowledge team at CIS, aware of our difficulty in obtaining the data, also pointed us towards the WAT. While we were already scraping data on some of the parameters, we approached the WAT whose prompt and very supportive response much accelerated our work process. The fantastic Wikimedia developers, especially Evan Rosen (a big ‘thank you’ for him) shared the needed data, which we cleaned up and archived at the &lt;a href=&#34;https://github.com/geohacker/indicwiki&#34;&gt;Github repository&lt;/a&gt; for the project.&lt;/p&gt;
+
+&lt;p&gt;We obtained data for the period from January 2001 to December 2012. It appears that the Indic Wikipedia projects began their activities around 2005. A big part of cleaning the data involved identifying when each of the projects started and dropping data. There are &lt;a href=&#34;https://meta.wikimedia.org/wiki/India_Access_To_Knowledge/Indic_Languages&#34;&gt;20 Indic Wikipedia projects&lt;/a&gt; with 4,98,964 articles, 5,689 editors and over 3,35,49,102 readers.&lt;/p&gt;
+
+&lt;h2 id=&#34;deciding-upon-chart-types:9e0b2ded6070cb6c132959f99e0bf731&#34;&gt;Deciding upon Chart Types&lt;/h2&gt;
+
+&lt;p&gt;We spent quite some time discussing different methods of visualising the data. The major difficulty is that there are too many entities to be plotted. As each language must be plotted as a separate entity — point, line, circle, etc. — the chart has a tendency to become cluttered and illegible. Even if we take only one variable — say New Editors — there will still be 20 points or lines to be plotted. Hence, using any of the conventional charts becomes difficult. For example, if we chose a line chart with New Editors on the Y-axis and months on the X-axis, there will be 20 lines each of a different colour, representing different languages. Also, the five-six year monthly timeline translates into 60-72 temporal data points.&lt;/p&gt;
+
+&lt;p&gt;We have adopted two strategies, and related chart types, to address this difficulty.&lt;/p&gt;
+
+&lt;p&gt;Firstly, we used a monthly calendar-like heatmap chart that limits the temporal spread of data to one year for each section of the chart and uses a positionally uniform set of columns for each language so as to make reading the chart easier. Limiting each chart section to 12 months allow the user to focus on more granular movements of the variable concerned, say the number of New Editors per month. By representing each languages on an unique column, and not by an upwards-and-downwards moving line as in a line chart, makes it easier for the user to follow movements in each language (where movement is shown by the intensity of colour, as characteristic of heatmaps) without the need to have a separate coloured entity — point, line, circle — for each language.&lt;/p&gt;
+
+&lt;p&gt;Secondly, we used a motion chart, as made famous by Dr. Hans Rosling, that removes the temporal axis from X- and Y-axes of the chart and uses animated transition to represent temporal change. Motion chart has the unique ability to handle as many as five variables in an organised manner, using the following visual elements: X-axis, Y-axis, Z-axis (animated temporal transitions), size of bubbles, and colour of bubbles. It is, however, recommended that represented variables be limited to a maximum of four for easier legibility. In our case, we have used the X- and Y-axes to plot various related variables (which can be selected by the user) such as New Editors and New Articles, the Z-axis to represent time, and the colour of the bubbles to represent a third optional variable (also can be selected by the user). Since different Indian language Wikipedia projects often take a wide range of values for most variables, using the size of the bubble to represent any of those variables is avoidable. Further, the motion chart gives the user a lot of controls to explore the various projects and variables according to their interest and especially to compare particular projects and variables to each other.&lt;/p&gt;
+
+&lt;p&gt;Discussing the chart types with the Access to Knowledge team, we decided to use simpler line charts — emphasising upon single Indic Wikipedia projects — on the language-specific pages that we will be creating next.&lt;/p&gt;
+
+&lt;h2 id=&#34;calendar-charts:9e0b2ded6070cb6c132959f99e0bf731&#34;&gt;Calendar Charts&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;../img/indic-wikipedia-new-editors.png&#34; alt=&#34;code&#34; title=&#34;Indic Wikipedia Visualisation Project - Calendar Chart&#34; /&gt;&lt;/p&gt;
+
+&lt;h6 id=&#34;calendar-heatmap-chart-of-new-editors-across-indic-wikipedia-projects-2008-2011-source-http-geohacker-in-indicwiki-new-editors:9e0b2ded6070cb6c132959f99e0bf731&#34;&gt;Calendar heatmap chart of New Editors across Indic Wikipedia projects, 2008-2011. Source: &lt;a href=&#34;http://geohacker.in/indicwiki/new-editors&#34;&gt;http://geohacker.in/indicwiki/new-editors&lt;/a&gt;.&lt;/h6&gt;
+
+&lt;p&gt;We visualised three parameters using the calendar heatmap strategy: (1) New Articles, (2) New Editors, (3) Active Editors.&lt;/p&gt;
+
+&lt;p&gt;The New Articles Calendar shows new articles posted on every Indic Wikipedias for every month since 2004. It was interesting to note the few number of articles in 2012 for all the languages. The first language to have the most number of new articles is Bengali. Hindi picks up around same time with fewer number of articles. Except Urdu and Nepali, every other language dropped in the number of new articles. However, we should remember that a lower number of new articles does not necessarily indicate at low overall activity in the project concerned.&lt;/p&gt;
+
+&lt;p&gt;Like the new articles, we wanted to explore the patterns in the number of new editors across all of the Indic Wikipedia projects. As you run through the new editors calendar chart, it is evident that there is consistent growth in the editor base for few projects like Hindi, Marathi, Bengali, Telugu, Tamil, Kannada and Malayalam. If one takes a step back and compares this with the number of new articles chart, something is not very clear – in some of the projects, there is a growth in the number of editors but not many new articles are posted. We are very keen to understand why this has happened.&lt;/p&gt;
+
+&lt;p&gt;If we look at the active editors calendar, Tamil started with 2 active editors in January 2004 and with few ups and downs grew to about 115 active editors in December 2012. Malayalam started slow in late 2004 with 2 editors and grew to 155 active editors in December 2012. We are sure the viewers should be able to find out more patterns by studying the charts closely and comparatively.&lt;/p&gt;
+
+&lt;h2 id=&#34;motion-chart:9e0b2ded6070cb6c132959f99e0bf731&#34;&gt;Motion Chart&lt;/h2&gt;
+
+&lt;p&gt;We developed &lt;a href=&#34;http://geohacker.github.com/indicwiki/motion_chart.html&#34;&gt;a motion chart comparing five variables&lt;/a&gt;: (1) Active Editors (&amp;gt; 5 edits per month), (2) New Editors, (3) Total Editors, (4) New Articles, and (5) Total Articles. When the visualisation is opened, Total Editors is plotted on the X-axis, Total Articles is plotted on the Y-axis, the colour of the bubbles indicate the Active Editors (Blue is low and Red is high) and the sizes of the bubbles are kept the same for easier comparison.&lt;/p&gt;
+
+&lt;p&gt;The user can click on the drop down menus at the X- and Y-axes, and next to the size and colour variables, and make them represent different variables.&lt;/p&gt;
+
+&lt;p&gt;We chose to configure the X- and Y-axes to show the data in logarithmic scales and not in linear scales. Since most projects experience small increments over time and there exists a wide difference between the most and the least popular/active projects, the logarithmic scale is better suited to represent the changes in the given data. The user has the option to select linear scale at the end of both X- and Y-axes (click on “Log”).&lt;/p&gt;
+
+&lt;p&gt;As evident in the visualisation, the Newari project and the Hindi-Malayalam project cluster show very interesting contrasting dynamics — while both achieve similar Total Articles numbers, the latter is much more editor-heavy. This suggests a smaller but more active editor community for the Newari project.&lt;/p&gt;
+
+&lt;p&gt;Please click on the image of the motion chart below to open the interactive version in a separate window. The code can be accessed at the &lt;a href=&#34;https://github.com/geohacker/indicwiki&#34;&gt;project repository on GitHub&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../img/indic-wikipedia-motion-chart.png&#34; alt=&#34;code&#34; title=&#34;Indic Wikipedia Visualisation Project - Motion Chart&#34; /&gt;&lt;/p&gt;
+
+&lt;h6 id=&#34;motion-chart-comparing-multiple-variables-across-indic-wikipedia-projects-2001-2011-source-http-geohacker-in-indicwiki-motion-chart-html:9e0b2ded6070cb6c132959f99e0bf731&#34;&gt;Motion chart comparing multiple variables across Indic Wikipedia projects, 2001-2011. Source: &lt;a href=&#34;http://geohacker.in/indicwiki/motion_chart.html&#34;&gt;http://geohacker.in/indicwiki/motion_chart.html&lt;/a&gt;.&lt;/h6&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

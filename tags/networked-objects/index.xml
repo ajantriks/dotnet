@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Networked Objects on Sumandro</title>
+    <link>https://ajantriks.net/tags/networked-objects/</link>
+    <description>Recent content in Networked Objects on Sumandro</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 17 Jun 2012 20:09:56 +0530</lastBuildDate>
+    <atom:link href="https://ajantriks.net/tags/networked-objects/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Data-Driven Urban Citizenship</title>
+      <link>https://ajantriks.net/data-driven-urban-citizenship/</link>
+      <pubDate>Sun, 17 Jun 2012 20:09:56 +0530</pubDate>
+      
+      <guid>https://ajantriks.net/data-driven-urban-citizenship/</guid>
+      <description>
+
+&lt;h4 id=&#34;published-by-the-pop-up-city-http-popupcity-net-data-driven-urban-citizenship:2f52587dce86bf93b3695e81c3323592&#34;&gt;Published by &lt;a href=&#34;http://popupcity.net/data-driven-urban-citizenship/&#34;&gt;The Pop Up City&lt;/a&gt;.&lt;/h4&gt;
+
+&lt;p&gt;With networked infrastructures mixing with physical fabric of the cities (check out &lt;a href=&#34;http://www.ipavement.com/en/&#34;&gt;iPavement&lt;/a&gt;, paving tiles with embedded microcomputer), there is a gradually growing body of urban data. Often this data is not collected or not stored. Often it is stored without being shared. A steady trickling out of this urban data, however, is taking place through open data platforms and various public-private data partnerships. While there emerges a political demand for rights regarding networked objects (see &lt;a href=&#34;http://videos.liftconference.com/video/2902438/adam-greenfield-on-public&#34;&gt;Adam Greenfield&lt;/a&gt;, &lt;a href=&#34;http://www.bruno-latour.fr/sites/default/files/96-DINGPOLITIK-GB.pdf&#34;&gt;Bruno Latour&lt;/a&gt;, and &lt;a href=&#34;http://blog.nearfuturelaboratory.com/2006/02/26/a-manifesto-for-networked-objects/&#34;&gt;Near Future Laboratory&lt;/a&gt;), a range of products, services and platforms are coming up that offer to enrich citizenship with accessible and visualised data. 
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/21351764&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;The everyday citizenship in urban areas is increasingly augmented by all kinds of incoming data visuals — &lt;a href=&#34;http://mappinglondon.co.uk/2012/mapped-every-bus-trip-in-london/&#34;&gt;map of ‘every bus trip’&lt;/a&gt; in the city, possibilities of using the same data to pre-empt congestion and resolving them by diversifying traffic, &lt;a href=&#34;http://spatialanalysis.co.uk/2012/04/twitter-languages-london/&#34;&gt;geographic spread of different languages&lt;/a&gt; used to tweet across the city, crime landscape of the cities (and of course you remember &lt;a href=&#34;http://stamen.com/work/crimespotting/&#34;&gt;Crimespotting by Stamen&lt;/a&gt;), catching criminals by real-time data mining, &lt;a href=&#34;http://urbmet.org/&#34;&gt;visualisation of energy and resource intensities&lt;/a&gt; of your city, and &lt;a href=&#34;http://www.hypercities.com/&#34;&gt;exploratory platform&lt;/a&gt; for historical visuals and documents embedded on the city map. 
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/pPjKQfGeJv4&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;At a much more extensive scale, the &lt;a href=&#34;http://www.bartlett.ucl.ac.uk/casa&#34;&gt;Centre for Advanced Spatial Analysis, UCL&lt;/a&gt; has developed a &lt;a href=&#34;http://citydashboard.org/london/&#34;&gt;city-wide dashboard&lt;/a&gt; for London that pulls in various environmental, transportation, social and other variables and information. The &lt;a href=&#34;http://livehoods.org/&#34;&gt;Livehoods&lt;/a&gt; portal takes a more social-media intensive approach to create similar city-scale visualisation of human interactions. It employs machine-learning algorithms to &lt;a href=&#34;http://livehoods.org/research&#34;&gt;mine urban conversations&lt;/a&gt; taking place in social networks and create insights about urban living patterns. &lt;a href=&#34;http://www.urbanmobs.fr/en/&#34;&gt;Urban Mobs&lt;/a&gt; takes a similar approach to analyse and visualise ‘crowd communication activities’ using mobile usage data (from Orange). A common problem for such data exploration interfaces is the thickness of information layers — various kinds data about each location makes it difficult to read. &lt;a href=&#34;http://senseable.mit.edu/&#34;&gt;MIT SENSEable City Lab&lt;/a&gt; has developed a visualisation interface called &lt;a href=&#34;http://senseable.mit.edu/visual-explorations-urban-mobility/data-lenses.html&#34;&gt;Data Lenses&lt;/a&gt;. It allows one to separately track variables, to switch between variables to understand patterns, to change zoom levels for various scalar comparison — so as to ease the urban ‘information overload’. 
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/P_XBL5hYiqQ&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;In April, the Open-Data Cities Conference was organised in Brighton, UK, which argued that — “The more data that is released – without strings attached, in machine-readable and non-proprietary &amp;lsquo;open&amp;rsquo; formats – the more likely it is that businesses and developers will use it to build the applications and services that world-class cities need.” The qualities of the ‘world-class cities’ were not clear to begin with and now with informatics thrown in it accumulated further complexity and confusion. Here the idea of ‘open urban data’ is almost like a subsidy — if the government provides no-strings attached data subsidy, then private agencies can use it to produce and address infrastructural needs of digital cities. It remains unanswered how the citizens who have contributed to creation of that data will benefit as governments open up data for commercial use by private agencies (here is a strange case of &lt;a href=&#34;sfappeal.com/news/2009/06/who-owns-sfmta-arrival-data.php&#34;&gt;citizens asked to buy back urban data&lt;/a&gt; created by them). 
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/42553502&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;In a recent series of articles, Urban Times and Design Mind have been exploring this data-driven &lt;a href=&#34;http://www.theurbn.com/category/feature/future-of-the-city&#34;&gt;future of cities in the digital age&lt;/a&gt;. The insightful discussion explores the many challenges being faced by engineers, coders, designers, politicians, citizens etc as the ‘smart city’ model of infrastructure provision and management becomes commonplace. &lt;a href=&#34;http://www.theurbn.com/2012/05/the-future-of-the-city-2-the-networked-urban-environment/&#34;&gt;It notes&lt;/a&gt; that much of the controversy regarding this data-driven approach is entangled with questions of “public and private ownership of space, both in the cloud and on the ground.” 
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/Qs4OcQNOM34&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;And computer games continue to be right at the cutting edge of spatial speculations. A new game by Ubisoft named ‘&lt;a href=&#34;https://www.ubisoft.com/de-DE/game/watch-dogs/&#34;&gt;Watch Dogs&lt;/a&gt;‘ is built around a ‘smart city’ operator gone rogue. The centralised urban informatics system is under siege and turned into the weapon against the urban itself. As &lt;a href=&#34;http://www.citylab.com/tech/2012/06/dark-side-smart-city-video-game/2184/&#34;&gt;Nate Berg notes&lt;/a&gt;, the emerging control of spatial systems and built forms by data-driven infrastructure create new possibilities of controlling cities and inflicting networked terror. Of course such systems also create possibilities of counter-vigilance by data-driven citizens. However, data rights of such citizens and data responsibilities of the governments need to be developed and implemented.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Courtesy: &lt;a href=&#34;www.giorgialupi.net&#34;&gt;Giorgia Lupi&lt;/a&gt;’s fantastic ‘&lt;a href=&#34;http://www.scoop.it/t/urbansensing&#34;&gt;informational landscapes&lt;/a&gt;‘ and &lt;a href=&#34;http://www.citylab.com/authors/nate-berg/&#34;&gt;Nate Berg&lt;/a&gt; — thanks for the links.&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

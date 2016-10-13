@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Floating Sheep on Sumandro</title>
+    <link>https://ajantriks.net/tags/floating-sheep/</link>
+    <description>Recent content in Floating Sheep on Sumandro</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 10 Mar 2016 20:09:56 +0530</lastBuildDate>
+    <atom:link href="https://ajantriks.net/tags/floating-sheep/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Mapping Tools, Tutorials, and Readings</title>
+      <link>https://ajantriks.net/mapping-tools-tutoials-readings/</link>
+      <pubDate>Thu, 10 Mar 2016 20:09:56 +0530</pubDate>
+      
+      <guid>https://ajantriks.net/mapping-tools-tutoials-readings/</guid>
+      <description>
+
+&lt;h3 id=&#34;tools:0187c389405e59a61ff0cc16e14ce279&#34;&gt;Tools&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.openstreetmap.org/&#34;&gt;OpenStreetMap&lt;/a&gt; – Contribute and download map data.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://wiki.openstreetmap.org/wiki/JOSM&#34;&gt;Java OpenStreetMap Editor (JOSM Editor)&lt;/a&gt; – A desktop application to work with data downloaded from OpenStreetMap and/or collected from GPS devices. Can be used to clean and manage map data, as well as to upload that to OpenStreetMap.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://fieldpapers.org/&#34;&gt;Field Papers&lt;/a&gt; – A tool to print out parts of OpenStreetMap, add data to it by hand (using black pen), and to upload a scanned/photographed copy of it that gets automatically geo-referenced and aligned into OpenStreetMap. The hand-written data, however, would require manual digitisation.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://maperitive.net/&#34;&gt;Maperitive&lt;/a&gt; – Desktop application to download data from OpenStreetMap in PNG and SVG formats.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.google.com/earth/&#34;&gt;Google Earth&lt;/a&gt; – Trace over satellite imagery to create map data, save it as .KML, convert it to .SVG and use it in design softwares.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.gpsvisualizer.com/&#34;&gt;GPS Visualizer&lt;/a&gt; – Convert .KML files (and more) to .SVG (and more).&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://latlong.net/&#34;&gt;LatLong.net&lt;/a&gt; – Search for places and find out the latitude and longitude of the same.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.ushahidi.com/&#34;&gt;Ushahidi&lt;/a&gt; and &lt;a href=&#34;http://crowdmap.com/&#34;&gt;Crowdmap&lt;/a&gt; - Crowdsource geo-referenced information.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://cartodb.com/&#34;&gt;CartoDB&lt;/a&gt; - Plot and analyse geospatial data using a menu-driven interface.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.openheatmap.com/&#34;&gt;OpenHeatMap&lt;/a&gt; - Generate simple heatmaps.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.mapbox.com/studio&#34;&gt;Mapbox Studio&lt;/a&gt; – Plot geospatial data and create custom designed map tiles.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://leafletjs.com/&#34;&gt;Leaflet&lt;/a&gt; – A simple JavaScript library to create web-based interactive maps. Basemaps from different services (Google, Bing, OpenStreetMap, etc.) can be displayed along with various data layers (simple vector, GeoJSON, image, etc.).&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://qgis.org/en/site/&#34;&gt;Quantum GIS&lt;/a&gt; – A free and open source GIS software, for map data management, analysis etc.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.gadm.org/&#34;&gt;GADM Database of Global Administrative Areas&lt;/a&gt; - Download geospatial data of administrative boundaries of countries across the world.&lt;/p&gt;
+
+&lt;h3 id=&#34;tutorials:0187c389405e59a61ff0cc16e14ce279&#34;&gt;Tutorials&lt;/h3&gt;
+
+&lt;p&gt;OpenStreetMap – &lt;a href=&#34;http://wiki.openstreetmap.org/wiki/Beginners%27_Guide&#34;&gt;Beginniners’ Guide&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;LearnOSM – &lt;a href=&#34;http://learnosm.org/en/&#34;&gt;Learn OpenStreetMap Step by Step&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Maperitive – &lt;a href=&#34;http://maperitive.net/docs/&#34;&gt;Documentation&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://web.archive.org/web/20150627104919/http://geojournalism.org/category/maps/&#34;&gt;GeoJournalism Handbook&lt;/a&gt; – The Handbook has a set of tutorials on various mapping tools (as well as other data collection/visualisation tools).&lt;/p&gt;
+
+&lt;p&gt;Switch2OSM – &lt;a href=&#34;http://switch2osm.org/using-tiles/getting-started-with-leaflet/&#34;&gt;Getting Started with Leaflet&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Andy Maloney – &lt;a href=&#34;http://asmaloney.com/2014/01/code/creating-an-interactive-map-with-leaflet-and-openstreetmap/&#34;&gt;Creating an Interactive Map with Leaflet and OpenStreetMap&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Quantum GIS - &lt;a href=&#34;http://www.qgistutorials.com/en/&#34;&gt;Tutorials and Tips&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;readings:0187c389405e59a61ff0cc16e14ce279&#34;&gt;Readings&lt;/h3&gt;
+
+&lt;p&gt;Floating Sheep Collective - &lt;a href=&#34;http://manifesto.floatingsheep.org/&#34;&gt;Manifesto: What would a Floating Sheep Map?&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;John Krygier &amp;amp; Denis Wood – &lt;a href=&#34;http://makingmaps.files.wordpress.com/2009/08/ce_n_est_pas_le_monde.pdf&#34;&gt;Ce n’est pas le monde (This is not the world)&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Jeremy W. Crampton &amp;amp; John Krygier – &lt;a href=&#34;http://www.acme-journal.org/vol4/JWCJK.pdf&#34;&gt;An Introduction to Critical Cartography&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Denis Wood &amp;amp; John Krygier – &lt;a href=&#34;http://makingmaps.owu.edu/elsevier_geog_criticalcartography.pdf&#34;&gt;Cartography: Critical Cartography&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;John Krygier – &lt;a href=&#34;http://makingmaps.net/2011/12/05/map-art-exhibitions-2010-11/&#34;&gt;Map Art Exhibitions 2010-11&lt;/a&gt; &amp;amp; &lt;a href=&#34;http://makingmaps.net/2014/05/12/map-art-exhibitions-2012-13/&#34;&gt;Map Art Exhibitions 2012-13&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Christian Nold (ed.) – &lt;a href=&#34;http://emotionalcartography.net/&#34;&gt;Emotional Cartography – Technologies of the Self&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Counter Cartographies Collective – &lt;a href=&#34;http://www.countercartographies.org/blog/&#34;&gt;Blog&lt;/a&gt;, &lt;a href=&#34;http://www.countercartographies.org/downloads/?dl_cat=1&#34;&gt;Maps&lt;/a&gt;, &lt;a href=&#34;http://www.countercartographies.org/downloads/?dl_cat=2&#34;&gt;Papers&lt;/a&gt;, and &lt;a href=&#34;http://www.countercartographies.org/downloads/?dl_cat=3&#34;&gt;Presentations&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Denis Wood – &lt;a href=&#34;http://www.guernicamag.com/art/mapping-marginality/&#34;&gt;Interview – Mapping Marginality&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Alexis Madrigal – &lt;a href=&#34;http://www.theatlantic.com/technology/archive/2012/09/how-google-builds-its-maps-and-what-it-means-for-the-future-of-everything/261913&#34;&gt;How Google Builds Its Maps – and What It Means for the Future of Everything&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

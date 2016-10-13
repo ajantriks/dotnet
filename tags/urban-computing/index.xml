@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Urban Computing on Sumandro</title>
+    <link>https://ajantriks.net/tags/urban-computing/</link>
+    <description>Recent content in Urban Computing on Sumandro</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 02 Jun 2014 20:09:56 +0530</lastBuildDate>
+    <atom:link href="https://ajantriks.net/tags/urban-computing/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>These Cities are Made for Watchin’</title>
+      <link>https://ajantriks.net/these-cities-are-made-for-watchin/</link>
+      <pubDate>Mon, 02 Jun 2014 20:09:56 +0530</pubDate>
+      
+      <guid>https://ajantriks.net/these-cities-are-made-for-watchin/</guid>
+      <description>
+
+&lt;h4 id=&#34;published-by-the-pop-up-city-http-popupcity-net-these-cities-are-made-for-watchin:c16d05bacacc488815d5e3e5fdb66283&#34;&gt;Published by &lt;a href=&#34;http://popupcity.net/these-cities-are-made-for-watchin/&#34;&gt;The Pop Up City&lt;/a&gt;.&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&#34;../img/Watch-Dogs.jpg&#34; alt=&#34;Codes&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.ubisoft.com/de-DE/game/watch-dogs/&#34;&gt;Watch Dogs&lt;/a&gt;, by Ubisoft, has finally come out. In this game, you play an urban hacker in Chicago, who can hack into the operating system of the city and turn the very built environment into a weapon. We have talked about the game &lt;a href=&#34;http://popupcity.net/data-driven-urban-citizenship/&#34;&gt;earlier&lt;/a&gt; in the context of how data-driven urban infrastructures create new possibilities of looking at the city and acting in it — for governments, citizens and hackers.&lt;/p&gt;
+
+&lt;p&gt;As part of the advertisement campaign for the game, Devin Graham has directed a short action sequence that brings together parkour running and urban hacking. This amazing clip shows how we inhabit the city both physically and informationally — and can hack it by going beyond the designed circuits of physical movement, and access to information and data-driven control systems. 
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/UIkkiyGKfA0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Such concerns about the collapsing of physical and or informational dimensions of the city is not something that begins with the integration of computers into urban infrastructure. One of the greatest explorations of this topic can be found in Gillo Pontecorvo’s ‘&lt;a href=&#34;https://en.wikipedia.org/wiki/The_Battle_of_Algiers&#34;&gt;The Battle of Algiers&lt;/a&gt;.’ The film narrates the incidents of urban guerilla warfare in Algiers during the Algerian War of 1954-62. Throughout the film, the physicality and the knowledge about the urban spaces of Algiers — divided into the ‘modern’ French town and the ‘native’ city of casbah — is the very object and site of struggle for control of the city. Throughout the film, it is crucial for the French police and military to dominate urban mobility by gaining information about identities, intentions and locations of the Algerians. Converesely, the Algerian guerilla hides their existence not only through physical means (dresses and wells) but also through their knowledge of the alleys of casbah. Interestingly, one of the most iconic sequence of the film is of a boy hijacking a microphone system at a city checkpost and using it to announce pro-Algeria messages. 
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/ToFw7zqJ_sc&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Tom Brewster raises the obvious question of whether increasing integration of software and software-controlled hardware into the body of cities is making it more &lt;a href=&#34;http://www.theguardian.com/cities/2014/may/21/smart-cities-future-stupid-hack-terrorism-watchdogs&#34;&gt;vulnerable&lt;/a&gt; to cyber-attacks. Last year, Kashmir Hill, senior online editor at Forbes, demonstrated how common security-lapses can allow strangers to gain &lt;a href=&#34;http://www.forbes.com/sites/kashmirhill/2013/07/26/smart-homes-hack/#6013508f46a5&#34;&gt;control over ‘smart home’ devices&lt;/a&gt; via internet. Brewster further shows how these vulenerabilities of smart systems may not only come from mistakes while deploying or configuring them, but can simply be caused by &lt;a href=&#34;https://medium.com/message/everything-is-broken-81e5f33a24e1#.ixgu30qhv&#34;&gt;sloppy code&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;To prove the point, a researcher from security consultancy IOActive recently showed that vulnerabilities in road sensors relaying information to traffic lights could be exploited to turn them from red to green, or keep them on a certain colour. The potential impact is all too obvious: traffic carnage and deadly accidents… Many of the weaknesses are basic, [Cesar Cerrudo] says: devices often don’t do adequate validation of the data being sent to them, failing to check whether malicious streams of information are being sent rather than legitimate bits and bytes determining their functions.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;There is a pattern here: Watch Dogs imagines a smart city that is under control of ‘corrupt officials’ and ‘elite hackers;’ Hill talks about errors commited by uses that expose smart devices; and Brewster reveals how internal shortcomings of smart systems may lead to real-world disasters. In all these narratives, something needs to go wrong — either the people running the smart city, the people deploying the smart systems, or the software running the smart systems — for the smart city to hit a 404 page (or worse). 
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/1hpU_Neg1KA&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Such an imagination of the ‘threat’ of smart cities completely ignores the physical and informational surveillance that will be undertaken as &lt;em&gt;normal&lt;/em&gt; everyday life in a smart city. Data coming out of such surveillance devices will of course be consumed and acted upon by machines and humans alike — as Edward Snowden’s revealations have shown. Further, this entire surveillance will often take place without the residents noticing or giving attention to. Neither the governments nor the corporates, the key controllers of such smart city utilities, have much reputation when it comes to respecting electronic privacy of people, or sensitising the users to seriously consider terms of data usage before using a product/service. The big threat of smart cities does not come from malfunctioning or abuse of those systems, but from their normal usages. These are cities made for watching, and they don’t necessarily come with in-built mechanisms for citizens to watch the watchers.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Courtesy: Thank to &lt;a href=&#34;https://twitter.com/ehooge/status/469511898334261249&#34;&gt;Emile Hooge&lt;/a&gt; for the Watch Dogs parkour video link.&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Data-Driven Urban Citizenship</title>
+      <link>https://ajantriks.net/data-driven-urban-citizenship/</link>
+      <pubDate>Sun, 17 Jun 2012 20:09:56 +0530</pubDate>
+      
+      <guid>https://ajantriks.net/data-driven-urban-citizenship/</guid>
+      <description>
+
+&lt;h4 id=&#34;published-by-the-pop-up-city-http-popupcity-net-data-driven-urban-citizenship:2f52587dce86bf93b3695e81c3323592&#34;&gt;Published by &lt;a href=&#34;http://popupcity.net/data-driven-urban-citizenship/&#34;&gt;The Pop Up City&lt;/a&gt;.&lt;/h4&gt;
+
+&lt;p&gt;With networked infrastructures mixing with physical fabric of the cities (check out &lt;a href=&#34;http://www.ipavement.com/en/&#34;&gt;iPavement&lt;/a&gt;, paving tiles with embedded microcomputer), there is a gradually growing body of urban data. Often this data is not collected or not stored. Often it is stored without being shared. A steady trickling out of this urban data, however, is taking place through open data platforms and various public-private data partnerships. While there emerges a political demand for rights regarding networked objects (see &lt;a href=&#34;http://videos.liftconference.com/video/2902438/adam-greenfield-on-public&#34;&gt;Adam Greenfield&lt;/a&gt;, &lt;a href=&#34;http://www.bruno-latour.fr/sites/default/files/96-DINGPOLITIK-GB.pdf&#34;&gt;Bruno Latour&lt;/a&gt;, and &lt;a href=&#34;http://blog.nearfuturelaboratory.com/2006/02/26/a-manifesto-for-networked-objects/&#34;&gt;Near Future Laboratory&lt;/a&gt;), a range of products, services and platforms are coming up that offer to enrich citizenship with accessible and visualised data. 
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/21351764&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;The everyday citizenship in urban areas is increasingly augmented by all kinds of incoming data visuals — &lt;a href=&#34;http://mappinglondon.co.uk/2012/mapped-every-bus-trip-in-london/&#34;&gt;map of ‘every bus trip’&lt;/a&gt; in the city, possibilities of using the same data to pre-empt congestion and resolving them by diversifying traffic, &lt;a href=&#34;http://spatialanalysis.co.uk/2012/04/twitter-languages-london/&#34;&gt;geographic spread of different languages&lt;/a&gt; used to tweet across the city, crime landscape of the cities (and of course you remember &lt;a href=&#34;http://stamen.com/work/crimespotting/&#34;&gt;Crimespotting by Stamen&lt;/a&gt;), catching criminals by real-time data mining, &lt;a href=&#34;http://urbmet.org/&#34;&gt;visualisation of energy and resource intensities&lt;/a&gt; of your city, and &lt;a href=&#34;http://www.hypercities.com/&#34;&gt;exploratory platform&lt;/a&gt; for historical visuals and documents embedded on the city map. 
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/pPjKQfGeJv4&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;At a much more extensive scale, the &lt;a href=&#34;http://www.bartlett.ucl.ac.uk/casa&#34;&gt;Centre for Advanced Spatial Analysis, UCL&lt;/a&gt; has developed a &lt;a href=&#34;http://citydashboard.org/london/&#34;&gt;city-wide dashboard&lt;/a&gt; for London that pulls in various environmental, transportation, social and other variables and information. The &lt;a href=&#34;http://livehoods.org/&#34;&gt;Livehoods&lt;/a&gt; portal takes a more social-media intensive approach to create similar city-scale visualisation of human interactions. It employs machine-learning algorithms to &lt;a href=&#34;http://livehoods.org/research&#34;&gt;mine urban conversations&lt;/a&gt; taking place in social networks and create insights about urban living patterns. &lt;a href=&#34;http://www.urbanmobs.fr/en/&#34;&gt;Urban Mobs&lt;/a&gt; takes a similar approach to analyse and visualise ‘crowd communication activities’ using mobile usage data (from Orange). A common problem for such data exploration interfaces is the thickness of information layers — various kinds data about each location makes it difficult to read. &lt;a href=&#34;http://senseable.mit.edu/&#34;&gt;MIT SENSEable City Lab&lt;/a&gt; has developed a visualisation interface called &lt;a href=&#34;http://senseable.mit.edu/visual-explorations-urban-mobility/data-lenses.html&#34;&gt;Data Lenses&lt;/a&gt;. It allows one to separately track variables, to switch between variables to understand patterns, to change zoom levels for various scalar comparison — so as to ease the urban ‘information overload’. 
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/P_XBL5hYiqQ&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;In April, the Open-Data Cities Conference was organised in Brighton, UK, which argued that — “The more data that is released – without strings attached, in machine-readable and non-proprietary &amp;lsquo;open&amp;rsquo; formats – the more likely it is that businesses and developers will use it to build the applications and services that world-class cities need.” The qualities of the ‘world-class cities’ were not clear to begin with and now with informatics thrown in it accumulated further complexity and confusion. Here the idea of ‘open urban data’ is almost like a subsidy — if the government provides no-strings attached data subsidy, then private agencies can use it to produce and address infrastructural needs of digital cities. It remains unanswered how the citizens who have contributed to creation of that data will benefit as governments open up data for commercial use by private agencies (here is a strange case of &lt;a href=&#34;sfappeal.com/news/2009/06/who-owns-sfmta-arrival-data.php&#34;&gt;citizens asked to buy back urban data&lt;/a&gt; created by them). 
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/42553502&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;In a recent series of articles, Urban Times and Design Mind have been exploring this data-driven &lt;a href=&#34;http://www.theurbn.com/category/feature/future-of-the-city&#34;&gt;future of cities in the digital age&lt;/a&gt;. The insightful discussion explores the many challenges being faced by engineers, coders, designers, politicians, citizens etc as the ‘smart city’ model of infrastructure provision and management becomes commonplace. &lt;a href=&#34;http://www.theurbn.com/2012/05/the-future-of-the-city-2-the-networked-urban-environment/&#34;&gt;It notes&lt;/a&gt; that much of the controversy regarding this data-driven approach is entangled with questions of “public and private ownership of space, both in the cloud and on the ground.” 
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/Qs4OcQNOM34&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;And computer games continue to be right at the cutting edge of spatial speculations. A new game by Ubisoft named ‘&lt;a href=&#34;https://www.ubisoft.com/de-DE/game/watch-dogs/&#34;&gt;Watch Dogs&lt;/a&gt;‘ is built around a ‘smart city’ operator gone rogue. The centralised urban informatics system is under siege and turned into the weapon against the urban itself. As &lt;a href=&#34;http://www.citylab.com/tech/2012/06/dark-side-smart-city-video-game/2184/&#34;&gt;Nate Berg notes&lt;/a&gt;, the emerging control of spatial systems and built forms by data-driven infrastructure create new possibilities of controlling cities and inflicting networked terror. Of course such systems also create possibilities of counter-vigilance by data-driven citizens. However, data rights of such citizens and data responsibilities of the governments need to be developed and implemented.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Courtesy: &lt;a href=&#34;www.giorgialupi.net&#34;&gt;Giorgia Lupi&lt;/a&gt;’s fantastic ‘&lt;a href=&#34;http://www.scoop.it/t/urbansensing&#34;&gt;informational landscapes&lt;/a&gt;‘ and &lt;a href=&#34;http://www.citylab.com/authors/nate-berg/&#34;&gt;Nate Berg&lt;/a&gt; — thanks for the links.&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
